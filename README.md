@@ -1,6 +1,6 @@
 # Deerlu.cn
 
-IDE :[Pycharm] (https://www.jetbrains.com/pycharm/)
+IDE :[Pycharm](https://www.jetbrains.com/pycharm/)
 
 Python :
 
