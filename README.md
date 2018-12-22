@@ -14,4 +14,8 @@
 
 ### Jenkins
 
+参考资料
+
+[swagger + Django](https://django-rest-swagger.readthedocs.io/en/latest/) 
+
 
