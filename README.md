@@ -2,7 +2,7 @@
 
 IDE :[Pycharm](https://www.jetbrains.com/pycharm/)
 
-Python :
+Python : 3.6
 
 ### Some life blog and code thinking.
 
