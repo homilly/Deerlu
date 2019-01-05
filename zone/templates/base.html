@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'zone/style.css' %}">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+
+{#    <img src="{% static "images/Skin.png"%}" alt="Logo">#}
+    {% block content %}{% endblock %}
+
+</body>
+</html>
